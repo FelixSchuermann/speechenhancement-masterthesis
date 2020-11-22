@@ -8,9 +8,11 @@ Herefore single STFT gain vectors are predicted from context windows:
 
  <img src="images\contextwindow.jpg" alt="contextwindow"  />
 
-A novel architecture containing Subband 1D-Convolutions followed by LSTMs is presented: 
+A novel architecture containing Subband 1D-Convolutions followed by LSTMs is presented:
 
  <img src="images\1dconvlstm.jpg" alt="1dconvlstm"  />
+
+Text me if you are interested in trained weight files.
 
 #### Abstract
 
