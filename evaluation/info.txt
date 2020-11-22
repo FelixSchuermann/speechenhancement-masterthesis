@@ -1,0 +1,2 @@
+Aufgrund der Größe sind nur Teile der Evaluierungsdatensätze mitgeliefert. (Sirene, Straße, PartyBabble)
+Zur Benutzung müssen die files 'nets' und 'spnn', sowie modell gewichte in diesen ordner kopiert werden

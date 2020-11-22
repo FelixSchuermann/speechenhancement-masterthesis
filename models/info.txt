@@ -1,0 +1,3 @@
+Ordner für die Gewichte der wichtigsten Netze. Diese enthalten meist nur die Gewichte und nicht die Netzarchitektur.
+Dies liegt daran, dass TF 1.14 Gewichte unabhängig speichern muss, wenn Lambda Funktionen innerhalb des Graphen verwendet werden.
+(BEACHTEN: Sollte es beim Laden der Modelle zu Fehlern kommen, liegt dies meist daran dass die Länge des Kontextfensters falsch angegeben ist)

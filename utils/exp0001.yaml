@@ -1,0 +1,17 @@
+%YAML 1.2
+---
+command : 'train'
+batch_size:    8
+filter_size:   11
+learning_rate: 0.01
+nb_epochs:     200
+patience :     5
+
+model_impl:    arch001
+loss :         stsa_mse
+
+histfile : ./log/
+savefile : ./exp/
+path_scp : ./ #expects each audio file is stored in hdf5 (see load_from_h5 function in run_model.py)
+filename : exp0001
+
